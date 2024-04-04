@@ -10,7 +10,7 @@ class Games:
                 
         while(True):
             
-            info = ["Momin Danish","danish","danishmomin.003@gmail.com","dani2003"]
+            info = ["Name","username","username@gmail.com","password"]
             
             print("\nThe Login or Register Menu")
             print("1. Login")
